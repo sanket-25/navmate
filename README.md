@@ -1,2 +1,1 @@
-# navmate
-Project created in Hackathon
+# navmate.github.io
